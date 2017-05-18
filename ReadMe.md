@@ -1,4 +1,4 @@
-# Khung một ứng dụng Swift đơn giản 
+by Hung# Khung một ứng dụng Swift đơn giản 
 Ứng dụng này gồm một màn hình chính chứa danh sách link đến các màn hình con.
 Ứng dụng khung này rất tiện dụng khi lập trình viên học một framework hoặc cần code một tập các bài tập lập trình để sau này xem lại hoặc tái sử dụng.
 
