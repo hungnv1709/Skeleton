@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D53FD4991ECD8255003685C4 /* tinhToan.swift in Sources */ = {isa = PBXBuildFile; fileRef = D53FD4981ECD8255003685C4 /* tinhToan.swift */; };
+		D53FD4991ECD8255003685C4 /* TinhToan.swift in Sources */ = {isa = PBXBuildFile; fileRef = D53FD4981ECD8255003685C4 /* TinhToan.swift */; };
 		E28AB3931ECC346500D0325C /* TestPhuongTrinhBac2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E28AB3921ECC346500D0325C /* TestPhuongTrinhBac2.swift */; };
 		E2EA52701ECAE03C00CD8200 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2EA526F1ECAE03C00CD8200 /* AppDelegate.swift */; };
 		E2EA52771ECAE03C00CD8200 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2EA52761ECAE03C00CD8200 /* Assets.xcassets */; };
@@ -36,7 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D53FD4981ECD8255003685C4 /* tinhToan.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tinhToan.swift; sourceTree = "<group>"; };
+		D53FD4981ECD8255003685C4 /* TinhToan.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TinhToan.swift; sourceTree = "<group>"; };
 		E28AB3921ECC346500D0325C /* TestPhuongTrinhBac2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestPhuongTrinhBac2.swift; sourceTree = "<group>"; };
 		E2EA526C1ECAE03C00CD8200 /* SwiftAppSkeleton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftAppSkeleton.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2EA526F1ECAE03C00CD8200 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -145,7 +145,7 @@
 				E2EA529F1ECAE39000CD8200 /* DrawDiamond.swift */,
 				E2EA52A01ECAE39000CD8200 /* DrawDiamond.xib */,
 				E2EA52A31ECAE5E900CD8200 /* BlackScreen.swift */,
-				D53FD4981ECD8255003685C4 /* tinhToan.swift */,
+				D53FD4981ECD8255003685C4 /* TinhToan.swift */,
 			);
 			name = Basic;
 			sourceTree = "<group>";
@@ -258,7 +258,7 @@
 				E2EA52971ECAE0AB00CD8200 /* Menu.swift in Sources */,
 				E2EA52951ECAE0AB00CD8200 /* ConsoleScreen.swift in Sources */,
 				E2EA529A1ECAE16A00CD8200 /* ReadMe.md in Sources */,
-				D53FD4991ECD8255003685C4 /* tinhToan.swift in Sources */,
+				D53FD4991ECD8255003685C4 /* TinhToan.swift in Sources */,
 				E2EA52A41ECAE5E900CD8200 /* BlackScreen.swift in Sources */,
 				E2EA52961ECAE0AB00CD8200 /* MainScreen.swift in Sources */,
 				E2EA52941ECAE0AB00CD8200 /* BootLogic.swift in Sources */,
