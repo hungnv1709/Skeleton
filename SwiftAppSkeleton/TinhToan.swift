@@ -13,9 +13,9 @@ enum PhuongTrinhBac2Error: Error {
     case aBangKhong
 }
 
-class tinhtoan {
+class TinhToan {
     
-    func tinhToan(a:Double, b:Double, c:Double) throws -> (Double, Double) {
+    func giaiphuongtrinh(a:Double, b:Double, c:Double) throws -> (Double, Double) {
         if (a == 0){
             throw PhuongTrinhBac2Error.aBangKhong
         }
